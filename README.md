@@ -1,4 +1,4 @@
 # Screenshot
 <p align="center">
-  <img src="https://github.com/ericwidhiantara/ListVIEW/blob/master/screenshot/1.jpeg"/>
+  <img src="https://github.com/wahanawar/MenampilkanListview69/blob/master/screenshot/scrensoot.jpeg"/>
 </p>
